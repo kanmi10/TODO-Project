@@ -4,7 +4,7 @@
 
 > 나만의 디자인으로 디자인한 TODO List를 사용하여 계획적인 하루 보내기, 같은 관심사를 가진 회원들의 소통 및 공동 미션 수행
 
-> > [🔗 개발 문서](https://drive.google.com/drive/folders/1s1tmbUACyxfBBmY6JcAt2CJcNE8NTysu?usp=share_link)
+> [🔗 개발 문서](https://drive.google.com/drive/folders/1s1tmbUACyxfBBmY6JcAt2CJcNE8NTysu?usp=share_link)
  
 
 <br>
