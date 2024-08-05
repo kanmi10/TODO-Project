@@ -47,8 +47,8 @@
 ## 🖼 서비스 화면
 ### TODO List 종류
 <img width="934" alt="image" src="https://github.com/user-attachments/assets/5bf1f799-3366-48d2-9567-f20370ae8185">
-<img width="1262" src="https://user-images.githubusercontent.com/75536654/215128068-2c3dd482-8948-48ef-b434-349f73a6502e.gif"/>
-<img width="1262" src="https://user-images.githubusercontent.com/75536654/215127679-5a0a32db-b98e-4c73-bad3-45a286c51d45.gif"/>
+<img width="934" src="https://user-images.githubusercontent.com/75536654/215128068-2c3dd482-8948-48ef-b434-349f73a6502e.gif"/>
+<img width="934" src="https://user-images.githubusercontent.com/75536654/215127679-5a0a32db-b98e-4c73-bad3-45a286c51d45.gif"/>
 <br>
 
 ### 메인페이지
